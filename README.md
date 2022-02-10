@@ -1,4 +1,4 @@
-### Hi there 👋 You're looking at my GitHub profile! I'm currently after a front-end job! My pinned projects are a mix of my best and my most recent works! I hope they impress! 
+### Hi there 👋 You're looking at my GitHub profile! I'm currently after a development job! My pinned projects are a mix of my best and my most recent works! I hope they impress! 
 
 <!--
 **WesWJensen/WesWJensen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
